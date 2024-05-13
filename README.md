@@ -112,7 +112,6 @@ You will find all the components used and you can edit your information accordin
 
 - **Booking Page**
 <p>  <a href="https://ibb.co/FbdHJqp"><img src="https://i.ibb.co/svXWQJ7/11.png" alt="11" border="0"></a>
-  <a href="https://ibb.co/j4MstB5"><img src="https://i.ibb.co/4NT3k9f/12.png" alt="12" border="0"></a>
   <a href="https://ibb.co/Y0QXJty"><img src="https://i.ibb.co/Z2XSvhY/14.png" alt="14" border="0"></a>
 </p>
 
