@@ -22,7 +22,7 @@
     <div id="last">
 
         <div class="footer-bottom">
-            <p>OR2S | &copy; 2023 | All Rights Reserved | Developed by nCoder
+            <p>OR2S | &copy; 2023 | All Rights Reserved | Developed by <a href="https://ncoder.netlify.app">nCoder</a>
                 <a target="_blank" rel="noopener" href="https://www.facebook.com/imrk.859?mibextid=LQQJ4d"><img
                         src="/or2s/User/images/footerimage/facebook.png" width="20" height="20"></a>
                 <a target="_blank" rel="noopener" href="https://instagram.com/rak3xh?igshid=YmMyMTA2M2Y="><img
