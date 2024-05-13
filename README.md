@@ -17,16 +17,16 @@
 </div>
 <h3 align="center">
     🔹
-    <a href="https://github.com/rak3xh/or2s-project/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/devnkrish/or2s/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/rak3xh/or2s-project/issues">Request Feature</a>
+    <a href="https://github.com/devnkrish/or2s/issues">Request Feature</a>
 </h3>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [rak3xh](https://github.com/rak3xh/or2s-project). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [devnkrish](https://github.com/devnkrish/or2s). Thanks!
 
 ##
 
-My personal portfolio <a href="https://rak3xh-portfolio.vercel.app/" target="_blank">rak3xh.dev </a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://ncoder.netlify.app/" target="_blank">ncoder </a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 ## Built With
 
